@@ -1,7 +1,5 @@
 # AUTOSAR Port Driver
 
-![AUTOSAR Logo](autosar_logo.png)
-
 This repository contains an AUTOSAR-compliant Port Driver implementation for embedded systems, designed to work with the Tiva-C microcontroller family. The Port Driver provides an interface for configuring and controlling GPIO pins, including setting pin directions, modes, and internal resistors.
 
 ## Features
